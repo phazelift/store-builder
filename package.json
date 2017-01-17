@@ -1,0 +1,37 @@
+{
+  "name": "store-builder",
+  "version": "0.0.1",
+  "description": "A stateful asynchronous function serializer",
+  "main": "store-builder.min.js",
+  "dependencies": {
+    "control-timeout": "latest",
+    "define-prop": "latest",
+    "uuid": "latest",
+    "types.js": "latest",
+    "merge-plus": "latest",
+    "deep-freeze": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phazelift/store-builder"
+  },
+  "keywords": [
+    "store-builder",
+    "store",
+    "builder",
+    "async",
+    "series",
+    "serializer",
+    "state",
+    "stateful"
+  ],
+  "author": "Dennis Raymondo van der Sluis <phazelift@gmail.com> (https://github.com/phazelift/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phazelift/store-builder/issues"
+  },
+  "homepage": "https://github.com/phazelift/store-builder"
+}

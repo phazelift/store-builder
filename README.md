@@ -1,2 +1,6 @@
 # store-builder
-A stateful function serialiser
+A stateful asynchronous function serializer
+
+<br/>
+
+### Testing
