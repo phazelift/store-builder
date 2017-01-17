@@ -1,6 +1,6 @@
 {
   "name": "store-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A stateful asynchronous function serializer",
   "main": "store-builder.min.js",
   "dependencies": {
@@ -9,7 +9,8 @@
     "uuid": "latest",
     "types.js": "latest",
     "merge-plus": "latest",
-    "deep-freeze": "latest"
+    "deep-freeze": "latest",
+    "func-name": "latest"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
